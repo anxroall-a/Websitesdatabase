@@ -1,1 +1,18 @@
-
+[
+  {
+    "link": "https://jithinrajrk147-glitch.github.io/Anxro/",
+    "name": "Anxro",
+    "domain": "ANXRO.sav",
+    "keywords": ["bussiuss","ai", "developer",],
+    "description": "the site gives all thay is need in my system",
+    "type": "tool",
+    "location": {
+      "lat": 3.12,
+      "lng":34.3
+    },
+    "images": [
+      "n.png",
+      "b.png"
+    ]
+  }
+]
