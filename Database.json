@@ -225,5 +225,109 @@
       "banner.jpg"
     ],
     "id": "270719e8-942d-4eeb-a6bb-e01215d5a70e"
+  },
+  {
+    "link": "https://example.com",
+    "name": "Example Site",
+    "domain": "example.sav",
+    "type": "tool",
+    "keywords": [
+      "ai",
+      "business",
+      "developer"
+    ],
+    "description": "This site provides all tools needed",
+    "location": {
+      "lat": 3.12,
+      "lng": 34.3
+    },
+    "images": [
+      "n.png",
+      "b.png"
+    ],
+    "id": "555d84fb-997b-438b-8fe5-f947fa699e2b"
+  },
+  {
+    "link": "https://aitoolpro.com",
+    "name": "AI Tool Pro",
+    "domain": "aitoolpro.sav",
+    "type": "tool",
+    "keywords": [
+      "ai",
+      "automation",
+      "saas"
+    ],
+    "description": "Advanced AI automation platform for businesses",
+    "location": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "images": [
+      "logo.png",
+      "demo.jpg"
+    ],
+    "id": "14690103-c8cf-4a89-8b30-5ee407caff6d"
+  },
+  {
+    "link": "https://gofkgke.com",
+    "name": "Ejd Site",
+    "domain": "examdn.sav",
+    "type": "tool",
+    "keywords": [
+      "ai",
+      "business",
+      "developer"
+    ],
+    "description": "This site provides all tools needed",
+    "location": {
+      "lat": 4.12,
+      "lng": 35.3
+    },
+    "images": [
+      "u.png",
+      "j.png"
+    ],
+    "id": "c90ded04-cc5b-4550-9212-8dc367038225"
+  },
+  {
+    "link": "https://stripe.com",
+    "name": "Stripe",
+    "domain": "stripe.sav",
+    "type": "finance",
+    "keywords": [
+      "payments",
+      "api",
+      "saas"
+    ],
+    "description": "Online payment processing for internet businesses",
+    "location": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "images": [
+      "stripe.png"
+    ],
+    "id": "a53d286f-5820-42db-b34d-a188778cd4b2"
+  },
+  {
+    "link": "https://discord.com",
+    "name": "Discord",
+    "domain": "discord.sav",
+    "type": "social",
+    "keywords": [
+      "chat",
+      "community",
+      "gaming"
+    ],
+    "description": "Voice, video and text communication service",
+    "location": {
+      "lat": 37.7879,
+      "lng": -122.4074
+    },
+    "images": [
+      "icon.png",
+      "banner.jpg"
+    ],
+    "id": "93d942d9-4074-47a8-a28a-d8bc7768147e"
   }
 ]
