@@ -183,5 +183,26 @@
       "stripe.png"
     ],
     "id": "1efd0d5c-0196-4499-b7d5-bd6f209dff6e"
+  },
+  {
+    "link": "https://discord.com",
+    "name": "Discord",
+    "domain": "discord.sav",
+    "type": "social",
+    "keywords": [
+      "chat",
+      "community",
+      "gaming"
+    ],
+    "description": "Voice, video and text communication service",
+    "location": {
+      "lat": 37.7879,
+      "lng": -122.4074
+    },
+    "images": [
+      "icon.png",
+      "banner.jpg"
+    ],
+    "id": "233eb88d-6564-4283-af3f-22877d387e0d"
   }
 ]
