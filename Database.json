@@ -143,5 +143,25 @@
       "stripe.png"
     ],
     "id": "d7900d43-5c9a-4b4d-8c16-5e7e5ed494d7"
+  },
+  {
+    "link": "https://stripe.com",
+    "name": "Stripe",
+    "domain": "stripe.sav",
+    "type": "finance",
+    "keywords": [
+      "payments",
+      "api",
+      "saas"
+    ],
+    "description": "Online payment processing for internet businesses",
+    "location": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "images": [
+      "stripe.png"
+    ],
+    "id": "a0a197d0-5dea-4e5f-bbcf-81e5d814f785"
   }
 ]
