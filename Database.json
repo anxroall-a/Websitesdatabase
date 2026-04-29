@@ -19,26 +19,44 @@
       "b.png"
     ]
   },
-  [
-    {
-      "link": "https://jithinrajrk147-glitch.gxro/",
-      "name": "Ano",
-      "domain": "AO.sav",
-      "keywords": [
-        "bussiuss",
-        "ai",
-        "developer"
-      ],
-      "description": "the site gives all thay is need in my system",
-      "type": "tool",
-      "location": {
-        "lat": 3.12,
-        "lng": 34.3
-      },
-      "images": [
-        "n.png",
-        "b.png"
-      ]
-    }
-  ]
+  {
+    "link": "https://jithinrajrk147-glitch.gxro/",
+    "name": "Ano",
+    "domain": "AO.sav",
+    "keywords": [
+      "bussiuss",
+      "ai",
+      "developer"
+    ],
+    "description": "the site gives all thay is need in my system",
+    "type": "tool",
+    "location": {
+      "lat": 3.12,
+      "lng": 34.3
+    },
+    "images": [
+      "n.png",
+      "b.png"
+    ]
+  },
+  {
+    "link": "https://jithinrajrk147-glitch.gxro/",
+    "name": "Ano",
+    "domain": "AO.sav",
+    "keywords": [
+      "bussiuss",
+      "ai",
+      "developer"
+    ],
+    "description": "the site gives all thay is need in my system",
+    "type": "tool",
+    "location": {
+      "lat": 3.12,
+      "lng": 34.3
+    },
+    "images": [
+      "n.png",
+      "b.png"
+    ]
+  }
 ]
