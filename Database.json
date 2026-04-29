@@ -82,5 +82,26 @@
       "j.png"
     ],
     "id": "1770b21a-0342-4eb6-b156-25bfc003d2d4"
+  },
+  {
+    "link": "https://gofkgke.com",
+    "name": "Ejd Site",
+    "domain": "examdn.sav",
+    "type": "tool",
+    "keywords": [
+      "ai",
+      "business",
+      "developer"
+    ],
+    "description": "This site provides all tools needed",
+    "location": {
+      "lat": 4.12,
+      "lng": 35.3
+    },
+    "images": [
+      "u.png",
+      "j.png"
+    ],
+    "id": "3950b635-1b41-49cd-a74e-fde28fa619a4"
   }
 ]
