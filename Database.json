@@ -1,0 +1,65 @@
+[
+  {
+    "link": "https://example.com",
+    "name": "Example Site",
+    "domain": "example.sav",
+    "type": "tool",
+    "keywords": [
+      "ai",
+      "business",
+      "developer"
+    ],
+    "description": "This site provides all tools needed",
+    "location": {
+      "lat": 3.12,
+      "lng": 34.3
+    },
+    "images": [
+      "n.png",
+      "b.png"
+    ],
+    "id": "a626d0fc-187a-4506-963b-90d283f64cb9"
+  },
+  {
+    "link": "https://aitoolpro.com",
+    "name": "AI Tool Pro",
+    "domain": "aitoolpro.sav",
+    "type": "tool",
+    "keywords": [
+      "ai",
+      "automation",
+      "saas"
+    ],
+    "description": "Advanced AI automation platform for businesses",
+    "location": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "images": [
+      "logo.png",
+      "demo.jpg"
+    ],
+    "id": "0291f65f-b214-4db8-af3d-f91024e2ba46"
+  },
+  {
+    "link": "https://gofkgke.com",
+    "name": "Ejd Site",
+    "domain": "examdn.sav",
+    "type": "tool",
+    "keywords": [
+      "ai",
+      "business",
+      "developer"
+    ],
+    "description": "This site provides all tools needed",
+    "location": {
+      "lat": 4.12,
+      "lng": 35.3
+    },
+    "images": [
+      "u.png",
+      "j.png"
+    ],
+    "id": "9416035b-f81f-408a-a4d7-985f4640788d"
+  }
+]
