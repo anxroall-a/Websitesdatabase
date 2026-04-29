@@ -329,5 +329,26 @@
       "banner.jpg"
     ],
     "id": "93d942d9-4074-47a8-a28a-d8bc7768147e"
+  },
+  {
+    "link": "https://discord.com",
+    "name": "Discord",
+    "domain": "discord.sav",
+    "type": "social",
+    "keywords": [
+      "chat",
+      "community",
+      "gaming"
+    ],
+    "description": "Voice, video and text communication service",
+    "location": {
+      "lat": 37.7879,
+      "lng": -122.4074
+    },
+    "images": [
+      "icon.png",
+      "banner.jpg"
+    ],
+    "id": "df5229e9-e349-474e-8d74-98012db73a07"
   }
 ]
