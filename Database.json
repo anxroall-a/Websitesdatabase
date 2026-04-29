@@ -1,0 +1,48 @@
+[
+  {
+    "link": "https://example.com",
+    "name": "Example Site",
+    "domain": "example.sav",
+    "type": "tool",
+    "keywords": [
+      "ai",
+      "business",
+      "developer"
+    ],
+    "description": "This site provides all tools needed",
+    "location": {
+      "lat": 3.12,
+      "lng": 34.3
+    },
+    "images": [
+      "n.png",
+      "b.png"
+    ],
+    "id": "c6db55dc-fc3d-47fd-898b-feb3e27ee1a0",
+    "_compressed": "ᯡ‡న䁖Ӑᶡ嚰பx̉䀼ڑ⁝Ⴁ☠㰤ᠫㇺड栦ᠯ㋒T烇䵩哀Դ凇☠᥶ጿ✨䠠⛌ᐳ穧ᛋ⃯ʠᮧᝨ䰡Ṙ糰བ㚧孑Ӂ䂗㌠❙㴜ǕႴ㥠ɐ֓恀䤐漌⡙ॖ䒺ೢ㊔䀢璄ᅁ䙇Ⱞጶ೯ŰË冀碀⃉ᠮ৹䷋ҩᑳ⇀悸ஈজҤ䤷ᛒ䋦ᡉ姙繰ь娰㿠ڇ倢ᠠ䱉爘Y媀˯⊺瀢米ა⨪૨⏫䭏߁拎箅㹷ᯎ≨ވ",
+    "_status": "pending"
+  },
+  {
+    "link": "https://aitoolpro.com",
+    "name": "AI Tool Pro",
+    "domain": "aitoolpro.sav",
+    "type": "tool",
+    "keywords": [
+      "ai",
+      "automation",
+      "saas"
+    ],
+    "description": "Advanced AI automation platform for businesses",
+    "location": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "images": [
+      "logo.png",
+      "demo.jpg"
+    ],
+    "id": "7c33733f-bce1-47c6-8c7f-5315f66181d2",
+    "_compressed": "ᯡ‡న䁖Ӑᶡ嚰பx̉䀼ڑ⁝Ⴁے〾憔ᰢ㡰ຠㆥƍဣ✪㱆場檪@䁄䰠વ㑐*窽嵀¹妷䈹ٲ媽⍜ሠ溪ᅂ〤礄୦㵄橂㾓Ď૕䬑Ц榍䔅ɠ֔勐䥑〴മᐡ䒳怫包ᭋ礐䳔堼㢄㍸Ⳉㅇ䅓禴悂぀䡸≞أ䚣С䳽Ⲁ曺ᠠࣰហ䕫拇沀ᑬ檼婐جᑀڀϐᤆ猠ᘠ❔☾.㈰˰ĸl䎦㌞疙〫牪䋢䋗ΈᾈԶ熧ෟ煷狒ᠠ噘໾ᄢ⹠",
+    "_status": "pending"
+  }
+]
